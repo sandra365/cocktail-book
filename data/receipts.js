@@ -12,10 +12,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -32,10 +32,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -52,10 +52,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -72,10 +72,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -92,10 +92,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -112,10 +112,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -132,10 +132,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -152,10 +152,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -172,10 +172,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }, {
@@ -192,10 +192,10 @@ const receipts = [{
         quantity: 25
     }],
     directions: [
-        '1. Put cubes of ice into highball glass.',
-        '2. Pour rum, cola and lime juice over the ice.',
-        '3. Stir all ingredients.',
-        '4. Garnish with a lime wheel.'
+        'Put cubes of ice into highball glass.',
+        'Pour rum, cola and lime juice over the ice.',
+        'Stir all ingredients.',
+        'Garnish with a lime wheel.'
     ],
     method: 'Stir'
 }];
